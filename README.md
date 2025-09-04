@@ -182,4 +182,6 @@ La lógica del juego será programada por los estudiantes en las siguientes clas
 ![Vista inicial](img/pantalla1.png)
 
 ### 🎉 Después de girar (cuando se agregue JavaScript)
-![Vista resultado](img/pantalla2.png)
+![Vista resultado 1](img/pantalla2.png)
+
+![Vista resultado 2](img/pantalla3.png)
