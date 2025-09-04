@@ -144,6 +144,12 @@ MiniTragamonedas/
 
 ---
 
+### 🗂️ Estructura de la carpeta (refuerzo visual)
+*Así debería verse la carpeta de tu proyecto después del paso 4:*
+
+![Estructura del proyecto](img/pantalla_caperta.png)
+
+
 ## 📦 5. Cómo visualizar el proyecto
 
 - Abre la carpeta en tu computador.
@@ -167,3 +173,13 @@ En la próxima clase vamos a:
 
 Este proyecto fue creado con fines educativos para practicar HTML y CSS.  
 La lógica del juego será programada por los estudiantes en las siguientes clases.
+
+---
+
+## 🖼️ Vista previa del proyecto
+
+### 🎰 Antes de girar (Vista inicial)
+![Vista inicial](img/pantalla1.png)
+
+### 🎉 Después de girar (cuando se agregue JavaScript)
+![Vista resultado](img/pantalla2.png)
